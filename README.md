@@ -1,8 +1,8 @@
 # GS_Python
 Repositórios para a entrega dos trabalhos de python da Global Solution
 
-Integrantes da Dupla: Iago Diniz, rm: 553776
-                      Enzzo 
+Integrantes da Dupla: Iago Diniz rm: 553776,
+                      Enzzo Monteiro rm: 78280
 
 Nós da Alerming (nome dado para a dupla), encontramos sérios problemas no uso indevido de medicamentos, como, a medicação em horários errados,
 o esquecimento de datas e horas programadoas para a ingestão de seus próprios medicamentos.
