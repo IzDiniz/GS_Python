@@ -13,4 +13,4 @@ O nosso projeto também conta com uma opção de cadâstro, caso você seja meno
 se suas informações estiver corretas, você terá acesso a segunda parte do código, onde irá definir quantos avisos deseja receber e o intervalo
 de tempo entre cadâ aviso proposto.
 
-Video do Youtube com a Explicação: 
+Video do Youtube com a Explicação: https://youtu.be/wYVzx1zwBcw?si=hOG-zlRMAZiYnWMe
